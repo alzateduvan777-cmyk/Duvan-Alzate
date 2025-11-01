@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Heavy Duty: AI Video Generator",
+  "description": "An application that generates an educational and motivational video about the Heavy Duty training method based on a provided script using Gemini's Veo model.",
+  "requestFramePermissions": []
+}
